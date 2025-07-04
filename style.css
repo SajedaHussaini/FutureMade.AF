@@ -1,0 +1,36 @@
+.hero{
+    background-color: rgb(228, 244, 249);
+    padding: 60px 20px;
+}
+.hero-img{
+    max-width: 100%;
+    height: auto;
+}
+.heo-img{
+    margin-top: 30px ;
+}
+.card-img-top{
+    height: 210px;
+}
+.carousel-inner img{
+    height: 470px;
+    object-fit: cover;
+    margin-top: 30px;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: coral;
+    border-radius: 50%;
+    padding: 20px;
+}
+.me{
+    background-color:rgb(114, 150, 186);
+    position: fixed;
+    width: 100%;
+}
+#Contact{
+    background-color: #f6f1ed;
+}
+footer{
+    background-color: #a9cdf2;;
+}
+
